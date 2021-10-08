@@ -1,6 +1,11 @@
 # TicTacToe using Socket Server
 This is a project for the class : 18CSC302J - Computer Networks by Dr. S.Babu
 
+## Contributors
+Suvodeep Sinha RA1911003010108
+Vedant Singh RA1911003010097
+Harshit Singh RA1911003010096
+
 ## Overview
 
 This is a simple game of tic-tac-toe developed in Python. It allows two players to play with one another on different command lines through networking. The server starts the game by *first* running `server.py`, waiting for the client to connect by *then* running `client.py`. Once their connected, the game itself starts.
